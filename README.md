@@ -9,6 +9,7 @@ Runner.instance_.setSpeed(1000)
 gameOver
 
 // false
+
 Runner.prototype.gameOver = function(){}
 
 //ture
