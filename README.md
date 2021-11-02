@@ -12,5 +12,4 @@ Runner.prototype.gameOver = function(){}
 // false
 
 Runner.prototype.gameOver = original
-
 //ture
